@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.modiverse_ris_map-14469661.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "J:/UnrealProjekt/RedIsSus_ExampleMap/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Modiverse_RIS_Map-14469661 [UE Editor]"
+				}
+			}
+		}
+	]
+}
